@@ -19,4 +19,5 @@ The Automated Server Setups script is just an idea right of what will provision 
 - Automatically Configure Multiple WHM Security Settings
 - Automatically Install PHP 7.1, 7.2 7.3 and all php options inline with https://www.php.net/supported-versions.php
 - Send email notification to noc@domain.tld when installation is completed
-
+- Install DigitalOcean Monitoring Agent
+- Enable server in WHMCS after installation is complete (connect to noc.openwebhost.org/whmcs.sh)
